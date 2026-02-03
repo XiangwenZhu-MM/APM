@@ -1,3 +1,5 @@
 # Prevent node_modules from being committed
 node_modules/
 node_modules
+slide-generator.py
+test.md
