@@ -191,9 +191,7 @@
 - 可演进：数据模型、规则与接口支持版本化；提供迁移/兼容策略，避免升级“全量改造”
 
 
-
 # 系统介绍
-
 
 ### 1.1 WAGO SCADA (Supervisory Control and Data Acquisition)
 
