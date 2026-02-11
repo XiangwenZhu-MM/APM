@@ -7,6 +7,8 @@ xwzhu/PRD copy.md
 xwzhu/UniPortal_PRD copy.md
 
 # Obsidian 特定
+.obsidian
+.obsidian/*
 .obsidian/workspace*
 .obsidian/workspace.json
 .obsidian/appearance.json
@@ -14,3 +16,5 @@ xwzhu/UniPortal_PRD copy.md
 .trash/
 *.tmp
 
+copilot
+copilot/*
