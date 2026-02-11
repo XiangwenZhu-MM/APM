@@ -5,3 +5,12 @@ slide-generator.py
 test.md
 xwzhu/PRD copy.md
 xwzhu/UniPortal_PRD copy.md
+
+# Obsidian 特定
+.obsidian/workspace*
+.obsidian/workspace.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.trash/
+*.tmp
+
